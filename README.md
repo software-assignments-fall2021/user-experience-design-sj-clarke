@@ -18,15 +18,19 @@ Clicking the arrow button on the home screen brings you to a new page with more 
 
 Pop ups on Current Group: 
 1. Who you owe 
+
 ![](ux-design/Wireframes/whoYouOwe.png)
 
 2. You are owed
+
 ![](ux-design/Wireframes/youAreOwed.png)
 
 3. See members
+
 ![](ux-design/Wireframes/seeMembers.png)
 
 4. Add Expense 
+
 ![](ux-design/Wireframes/addExpense.png)
 
 5. Settle up 
@@ -49,12 +53,15 @@ Pop ups on Current Group:
 Pop ups on friends: 
 
 1. Add a Friend 
+
 ![](ux-design/Wireframes/addAFriend.png)
 
 2. Charge a friend 
+
 ![](ux-design/Wireframes/chargeFriend.png)
 
 3. Add friend to a group 
+
 ![](ux-design/Wireframes/addToGroup.png)
 
 
@@ -63,12 +70,15 @@ Pop ups on friends:
 
 Tabs on Account: 
 1.  Privacy Settings
+
 ![](ux-design/Wireframes/AccountPrivacy.png)
 
 2. Payments
+
 ![](ux-design/Wireframes/AccountPayments.png)
 
 3. Notifications
+
 ![](ux-design/Wireframes/AccountNot.png)
 
 
