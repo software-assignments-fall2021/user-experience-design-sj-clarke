@@ -69,7 +69,7 @@ Tabs on Account:
 ![](ux-design/Wireframes/AccountPayments.png)
 
 3. Notifications
-![](ux-design/Wireframes/AccountNotifications.png)
+![](ux-design/Wireframes/AccountNot.png)
 
 
 
